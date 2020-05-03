@@ -1,8 +1,8 @@
 ######################################
 # Bloody Rally Show translations file 
-# Locale: English
-# Author: Tomas Varaneckas
-# Contact: tomas@kodolinija.com
+# Locale: Norwegian
+# Author: HH110011HH
+# Contact: https://twitter.com/HH110011HH
 ######################################
 
 ######################################
@@ -38,131 +38,131 @@ char.nic.name,Nicholas Merryland
 char.nic.job,Director of Bloody Rally Show
 char.nic.job_short,Director
 
-char.anon.name,Anonymous Racer
+char.anon.name,Anonym Racer
 char.anon.job,Racer
 char.anon.job_short,Racer
 
 # Generic Terms (keep short)
 
-term.car,Car
-term.track,Track
-term.lap,Lap
-term.lap_percent,Lap%
-term.laps,Laps
+term.car,Bil
+term.track,Bane
+term.lap,Runde
+term.lap_percent,Runde%
+term.laps,Runder
 # Abbreviate to max 5 characters, or keep "Best"
-term.best,Best
+term.best,Beste
 # Max 10 characters
-term.best_lap,Best Lap
+term.best_lap,Beste Runde
 # As in person name
-term.name,Name
-term.human,Human
+term.name,Navn
+term.human,Menneske
 # Just keep "AI" if your language does not have a very popular abbreviation for Artificial Intelligence
 term.ai,AI
-term.week,Week
+term.week,Uke
 term.stage,Stage
-term.season,Season
-term.special,Special
-term.pending,Pending
-term.points,Points
+term.season,Sesong
+term.special,Spesiell
+term.pending,Avventer
+term.points,Poeng
 term.drifts,Drifts
-term.mode,Mode
-term.battle,Battle
-term.car_battle,Car Battle
-term.time_attack,Time Attack
-term.race,Race
-term.time_limit,Time Limit
-term.time_scale,Time Scale
-term.distance,Distance
-term.weapons,Weapons
-term.time,Time
-term.mission,Mission
+term.mode,Modus
+term.battle,Kamp
+term.car_battle,Bil Kamp
+term.time_attack,Tidtaking
+term.race,Løp
+term.time_limit,Tidsbegrensning
+term.time_scale,Tidsskala
+term.distance,Avstand
+term.weapons,Våpen
+term.time,Tid
+term.mission,Oppdrag
 # If word "fee" is long in your language, just keep both entry_fee and retry_fee as "fee"
-term.entry_fee,Entry Fee
-term.retry_fee,Retry Fee
-term.generating,Generating
-term.available,Available
-term.locked,Locked
-term.owned,Owned
-term.lost,Lost
+term.entry_fee,Inngangsavgift
+term.retry_fee,Prøv på nytt-Avgift
+term.generating,Genererer
+term.available,Tilgjengelig
+term.locked,Låst
+term.owned,Eigd
+term.lost,Tapt
 # This has to be super short!
-term.lvl_to_go,{0} Lvl to go
-term.required_level,Req Lvl
+term.lvl_to_go,{0} Lvl Igjen
+term.required_level,Ndv Lvl
 # Short for Points (max 3 chars or keep "pts")
 term.pts,pts
-term.cash,Cash
+term.cash,Penger
 # Short for Experience Points. If your language does not have a well know acronym for this, keep "XP"
 term.xp,XP
 # Short for position. Keep "Pos" if you can't find a good alternative
 term.pos,Pos
 # Noun - number of people killed (keep short, abbreviate if necessary)
-term.kills,Kills
+term.kills,Drap
 # Noun - number of cars fragged (reference to Quake). Keep as "Frags" in your alphabet. Max 5 characters.
 term.frags,Frags
 term.damage,Damage
 # Short from "damage", Keep "dmg" if you cannot get this to less than 6 characters.
-term.dmg,Dmg
+term.dmg,Skade
 term.racer,Racer
-term.ped,Pedestrian
-term.he,he
-term.she,she
+term.ped,Fotgjenger
+term.he,han
+term.she,henne
 term.mr,Mr.
 # Ms is between Miss and Mrs 
 term.ms,Ms.
-term.resurrect,Resurrect
-term.progress,Progress
-term.attempt,Attempt
+term.resurrect,Gjenoppliv
+term.progress,Framgang
+term.attempt,Forsøk
 term.tips,Tips
-term.difficulty,Difficulty
+term.difficulty,Vanskelighetsgrad
 
 # Generic buttons (keep short)
 
-btn.back,Back
-btn.continue,Continue
-btn.apply,Apply
-btn.close,Close
-btn.refresh,Refresh
-btn.random,Random
-btn.randomize,Randomize
-btn.main_menu,Main Menu
-btn.save,Save
-btn.cancel,Cancel
-btn.delete,Delete
-btn.edit,Edit
-btn.garage,Garage
-btn.generate,Generate
-btn.regenerate,Regenerate
-btn.buy,Buy
-btn.select,Select
-btn.paint,Paint
-btn.switch,Switch
-btn.confirm,Confirm
-btn.change,Change
-btn.skip,Skip
-btn.next_page,Next Page
-btn.prev_page,Previous Page
-btn.disable_tips,Disable Tips
+btn.back,Tilbake
+btn.continue,Fortsett
+btn.apply,Bruk
+btn.close,Lukk
+btn.refresh,Forfrisk
+btn.random,Tilfeldig
+btn.randomize,Tilfeldig
+btn.main_menu,Hovedmeny
+btn.save,Lagre
+btn.cancel,Avbryt
+btn.delete,Slett
+btn.edit,Endre
+btn.garage,Garasje
+btn.generate,Generer
+btn.regenerate,Regenerer
+btn.buy,Kjøp
+btn.select,Velg
+btn.paint,Maling
+btn.switch,Bytt
+btn.confirm,Bekreft
+btn.change,Endre
+btn.skip,Hopp Over
+btn.next_page,Neste Side
+btn.prev_page,Forrige Side
+btn.disable_tips,Skru Av Tips
 
 # Keep these very short. On / off can be translated same as yes / no to keep them shorter
 
-btn.on,On
-btn.off,Off
-btn.yes,Yes
-btn.no,No
+btn.on,På
+btn.off,Av
+btn.yes,Ja
+btn.no,Nei
 btn.ok,OK
-btn.all,All
+btn.all,Alle
 
 # Main Menu 
 
-main_menu.btn.campaign,Campaign
-main_menu.btn.custom_race,Custom Race
+main_menu.btn.campaign,Kampanje
+main_menu.btn.custom_race,Tilpasset Løp
 main_menu.btn.editors_mods,Editors & Mods
-main_menu.btn.daily_challenge,Daily Challenge
-main_menu.btn.leaderboards,Leaderboards
-main_menu.btn.achievements,Achievements
-main_menu.btn.settings,Settings
-main_menu.btn.about,About
-main_menu.btn.quit,Quit
-main_menu.label.whats_new,What's New
+main_menu.btn.daily_challenge,Daglig Utfordring
+main_menu.btn.leaderboards,Ledertavle
+main_menu.btn.achievements,Prestasjoner
+main_menu.btn.settings,Innstilinger
+main_menu.btn.about,Om
+main_menu.btn.quit,Avslutt
+main_menu.label.whats_new,Hva Er Nytt
 
 # Main Menu => Campaign
 
